@@ -1,4 +1,4 @@
-<h2>Quality Management for Production Efficiency</h2>
+<h2>Efficient Task Scheduler</h2>
 
 <h3>Intro</h3>
 <p>Program uses <b>Greedy Algorithm.</b></p>
