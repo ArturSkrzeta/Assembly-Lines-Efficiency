@@ -14,7 +14,7 @@
   <li>Tasks comes at different time
   <li>The main goal of task scheduler is to schedule as many tasks as possible to one employee.</li>
   <li>The tasks are compatible with each other when they don't overlap.</li>
-  <li>The work system assumes that tasks that left will be shifted to assistant of an employee.</li>
+  <li>The task scheduler assumes that tasks that left will be shifted to assistant of an employee.</li>
 </ul>
 
 <img src="images/tasks-time.JPG" width="500" height="460">
