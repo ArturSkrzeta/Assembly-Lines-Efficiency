@@ -16,4 +16,4 @@
   <li>The work system assumes that tasks that left will be shifted to assistant of an employee.</li>
 </ul>
 
-<img src="images/tasks-time.JPG">
+<img src="images/tasks-time.JPG" width="300" height="300">
