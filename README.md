@@ -15,3 +15,5 @@
   <li>The tasks are compatible with each other when they don't overlap.</li>
   <li>The work system assumes that tasks that left will be shifted to assistant of an employee.</li>
 </ul>
+
+<img src="images/tasks-time.JPG">
