@@ -9,7 +9,7 @@
 <ul>
   <li>SLA document requires comapny to process at least 10 tasks per day.</li>
   <li>Each hour from 7:00 AM to 4:00 OM, global system accepts tasks from a client.</li>
-  <li>We have to schedule 10 tasks that lasts x hours each to process.</li>
+  <li>We have to schedule 10 tasks that lasts x hours each to be processed.</li>
   <li>Depending on task, x can equals 1, 2 up to 4 hours.</li>
   <li>Tasks comes at different time
   <li>The main goal of task scheduler is to schedule as many tasks as possible to one employee.</li>
