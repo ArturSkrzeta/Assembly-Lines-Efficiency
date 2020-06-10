@@ -7,7 +7,7 @@
 
 <h3>Demo</h3>
 <ul>
-  <li>We have to schedule 10 tasks that lasts x hours each where x in range of 1 - 8 hours.</li>
+  <li>We have to schedule 10 tasks that lasts x hours (range: 1 - 8 hours) each to process.</li>
   <li>The main goal of task scheduler is to schedule as many tasks as possible to one employee.</li>
   <li>The tasks are compatible with each other when they don't overlap.</li>
   <li>The work system assumes that tasks that left will be shifted to next day or to another employee.</li>
