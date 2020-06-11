@@ -36,5 +36,7 @@
  
  <h3>Conclusions</h3>
  <ul>
-  <li></li>  
+  <li>All tasks have been distributed among 4 employees.</li>
+  <li>Program assigned as many tasks as possible to employess preventing tasks from ovelapping themeselves - efficiency requirement.</li>
+  <li>Program performed 4 iterations calling distibution function recursively as per dynamic programming.</li>
 </ul>
