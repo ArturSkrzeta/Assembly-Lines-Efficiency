@@ -9,12 +9,12 @@
 <ul>
   <li>SLA document requires comapny to process at least 10 tasks per day.</li>
   <li>From 7:00 AM to 4:00 PM, global system accepts tasks from a client.</li>
-  <li>System knows what task comes at what time up front (due to agreement with client)</li>
+  <li>System knows what task comes at what time up front (due to agreement with client).</li>
   <li>We have to schedule 10 tasks that lasts x hours each to be processed.</li>
   <li>Depending on task, x can equals 1, 2 up to 4 hours.</li>
   <li>The main goal of task scheduler is to schedule as many tasks as possible to one employee.</li>
   <li>The tasks are compatible with each other when they don't overlap for one employee.</li>
-  <li>If tasks overlap themeselves (4th and 5th one due to graph below) one of them will be assigned to another employee</li>
+  <li>If tasks overlap themeselves (4th and 5th one due to graph below) one of them will be assigned to another employee.</li>
   <li>The task scheduler assumes that tasks that left will be shifted to another employee until we schedule all of the tasks.</li>
 </ul>
 
