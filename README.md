@@ -16,12 +16,16 @@
   <li>The tasks are compatible with each other when they don't overlap for one employee.</li>
   <li>If tasks overlap themeselves (4th and 5th one due to graph below) one of them will be assigned to another employee.</li>
   <li>The task scheduler assumes that tasks that left will be shifted to another employee until we schedule all of the tasks.</li>
+  <li>Tasks flow represent below graph.</li>
 </ul>
 
 <img src="images/tasks-time.JPG" width="500" height="460">
 
+<ul>
+  <li>We can present the graph in form of the arra:</li>  
+</ul>
 
-              1       2       3       4       5       6       7       8       9       10
+    Task  |   1   |   2   |   3   |   4   |   5   |   6   |   7   |   8   |   9   |   10
     ------------------------------------------------------------------------------------------
     Start |   0   |   1   |   2   |   3   |   3   |   5   |   5   |   6   |   7   |    8       
     ------------------------------------------------------------------------------------------
