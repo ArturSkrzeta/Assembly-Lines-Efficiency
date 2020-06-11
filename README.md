@@ -26,4 +26,4 @@
     End   |   4   |   2   |   4   |   5   |   6   |   6   |   7   |   7   |   9   |   10   
  
  <h3>Outcome</h3>
- <img src="images/console.JPG" width="780" height="800">
+ <img src="images/console.JPG" width="850" height="770">
