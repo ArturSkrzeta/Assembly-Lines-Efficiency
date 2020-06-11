@@ -14,6 +14,7 @@
   <li>Depending on task, x can equals 1, 2 up to 4 hours.</li>
   <li>The main goal of task scheduler is to schedule as many tasks as possible to one employee.</li>
   <li>The tasks are compatible with each other when they don't overlap for one employee.</li>
+  <li>If some tasks overlap themeselves it will be distributed between next employyes in the next iteration</li>
   <li>The task scheduler assumes that tasks that left will be shifted to another employee until we schedule all of the tasks.</li>
 </ul>
 
