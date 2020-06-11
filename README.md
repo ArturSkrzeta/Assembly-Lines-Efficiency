@@ -22,7 +22,7 @@
 <img src="images/tasks-time.JPG" width="500" height="460">
 
 <ul>
-  <li>We can present the graph in form of the arra:</li>  
+  <li>We can present the graph in form of the array:</li>  
 </ul>
 
     Task  |   1   |   2   |   3   |   4   |   5   |   6   |   7   |   8   |   9   |   10
@@ -33,3 +33,8 @@
  
  <h3>Outcome</h3>
  <img src="images/console.JPG" width="850" height="770">
+ 
+ <h3>Conclusions</h3>
+ <ul>
+  <li></li>  
+</ul>
